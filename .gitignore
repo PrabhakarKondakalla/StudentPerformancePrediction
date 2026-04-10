@@ -13,3 +13,4 @@ data/interim/*
 !data/interim/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+CHAT_HISTORY.md

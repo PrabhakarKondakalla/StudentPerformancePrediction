@@ -1,0 +1,9 @@
+columns:
+  gender: category
+  race/ethnicity: category
+  parental level of education: category
+  lunch: category
+  test preparation course: category
+  math score: int
+  reading score: int
+  writing score: int
